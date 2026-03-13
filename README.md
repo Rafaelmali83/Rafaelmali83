@@ -4,7 +4,6 @@
 - 💬 Gosto de trabalhar com Python
 - 📫 Meu e-mail: 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:rafaelmali83@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:https://www.uol.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN) 
 
 <!--
