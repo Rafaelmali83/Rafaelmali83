@@ -5,7 +5,7 @@
 - 📫 Meu e-mail: 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:rafaelmali83@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.facebook.com/) 
+[![Facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=Facebook&logoColor=white)](https://www.facebook.com/rafael.maciel.96) 
 <!--
 **Rafaelmali83/Rafaelmali83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
