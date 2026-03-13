@@ -1,5 +1,5 @@
 ## Olá, eu sou o Rafael Maciel 👋
-
+- 📫 Meu e-mail: rafaelmali83@gmail.com
 <!--
 **Rafaelmali83/Rafaelmali83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
