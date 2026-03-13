@@ -4,7 +4,7 @@
 - 💬 Gosto de trabalhar com Python
 - 📫 Meu e-mail: 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:rafaelmali83@gmail.com)
-[![Facebook](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:https://www.facebook.com/rafael.maciel.96) 
+[![Facebook](https://img.shields.io/badge/Facebook-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:https://www.facebook.com/rafael.maciel.96) 
 
 <!--
 **Rafaelmali83/Rafaelmali83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
