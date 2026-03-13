@@ -1,5 +1,9 @@
 ## Olá, eu sou o Rafael Maciel 👋
+- 😄 Pretendo trabalhar com programação
+- ⚡ Estudante de Desenvolvimento de Sistema
+- 💬 Gosto de trabalhar com Python
 - 📫 Meu e-mail: rafaelmali83@gmail.com
+
 <!--
 **Rafaelmali83/Rafaelmali83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
