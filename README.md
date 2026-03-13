@@ -3,6 +3,7 @@
 - ⚡ Estudante de Desenvolvimento de Sistema
 - 💬 Gosto de trabalhar com Python
 - 📫 Meu e-mail: rafaelmali83@gmail.com
+- 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN) 
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-thebadge&logo=Facebook&logoColor=white)](https://www.facebook.com/rafael.maciel.96) 
 <!--
