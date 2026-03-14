@@ -1,7 +1,7 @@
 ## Olá, eu sou o Rafael Maciel 👋
 - 😄 Pretendo trabalhar com programação
 - ⚡ Estudante de Desenvolvimento de Sistema
-- 💬 Gosto de trabalhar com Python
+- 💬 Gosto de trabalhar com Python, JAVA e C#
 - 📫 Meu e-mail: rafaelmali83@gmail.com
 - 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN) 
